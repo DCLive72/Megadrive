@@ -1,7 +1,6 @@
 /**
- * Hello World Example
- * Created With Genesis-Code extension for Visual Studio Code
- * Use "Genesis Code: Compile" command to compile this program.
+ * Ejemplo de deteccion de pulsación
+ * del pad de Megadrive
  **/
 #include <genesis.h>
 
