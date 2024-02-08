@@ -1,6 +1,7 @@
 /**
  * Ejemplo de deteccion de pulsación
  * del pad de Megadrive
+ * Fco. Fidel Ortega, 2024
  **/
 #include <genesis.h>
 
